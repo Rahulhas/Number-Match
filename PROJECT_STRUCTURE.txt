@@ -1,0 +1,12 @@
+App.tsx
+README.md
+app.json
+package.json
+src/game/addRowEngine.ts
+src/game/difficulty.ts
+src/game/generator.ts
+src/game/matchEngine.ts
+src/game/random.ts
+src/game/simulator.ts
+src/game/types.ts
+tsconfig.json
